@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello there 👋! I work as an integration consultant @ [SAP](https://sap.com) part of the [SAP Ariba](https://www.ariba.com/) team. I help customers integrate their existing systems with SAP Ariba, as well as extending the capabilities of the product by consuming the SAP Ariba extensibility options available.
+
+You can find my latest blog posts on my personal website - https://ajmaradiaga.com or in [SAP Community](https://people.sap.com/ajmaradiaga#content:blogposts). Also, you can follow me on Twitter -> [@ajmrdg](https://twitter.com/ajmrdg) and LinkedIn -> https://linkedin.com/in/ajmaradiaga
 
 <!--
 **ajmaradiaga/ajmaradiaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
