@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "SAP-COMMUNITY"
           accept_header: "*/*"
-          feed_list: "https://content.services.sap.com/feed?author=ajmaradiaga&title=All%20content%20by%20Antonio%20Maradiaga"
+          feed_list: "https://content.services.sap.com/feed?type=blogpost&author=ajmaradiaga&title=All%20content%20by%20Antonio%20Maradiaga"
