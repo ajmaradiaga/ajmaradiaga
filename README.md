@@ -13,6 +13,8 @@ I'm currently learning:
 [<img align="left" alt="ajmaradiaga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ajmrdg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br />
+
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
 - [Deploy the Entity Relationship generator for SAP Ariba Analytical Reporting API application to the SAP BTP, Kyma runtime environment](https://blogs.sap.com/?p=1312427)
