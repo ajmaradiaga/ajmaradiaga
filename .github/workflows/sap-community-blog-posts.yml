@@ -1,0 +1,17 @@
+name: Latest Medium story workflow
+on:
+  schedule:
+    # Runs every day
+    - cron: '13 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest SAP Community blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "SAP-COMMUNITY"
+          feed_list: "https://content.services.sap.com/feed?author=ajmaradiaga&title=All%20content%20by%20Antonio%20Maradiaga"
