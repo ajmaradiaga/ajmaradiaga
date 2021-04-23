@@ -6,11 +6,16 @@ I'm currently learning:
 - [Rust](https://www.rust-lang.org/). Just following the book -> `$ rustup docs`.
 - [Enterprise messaging](https://help.sap.com/viewer/product/SAP_ENTERPRISE_MESSAGING/Cloud/en-US) and [Kyma](https://github.com/kyma-project/kyma) runtime available in [SAP Cloud Platform](https://www.sap.com/products/cloud-platform.html).
 
+### Connect with me:
+
+[<img align="left" alt="ajmaradiaga.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://ajmaradiaga.com]
+[<img align="left" alt="ajmaradiaga | SAP Community" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sap.svg" />][https://people.sap.com/ajmaradiaga]
+[<img align="left" alt="ajmaradiaga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/ajmaradiaga]
+[<img align="left" alt="ajmrdg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/ajmrdg]
+
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
 <!-- SAP-COMMUNITY:END -->
-
-You can find my latest blog posts on my personal website - https://ajmaradiaga.com or in [SAP Community](https://people.sap.com/ajmaradiaga#content:blogposts). Also, you can reach me on Twitter -> [@ajmrdg](https://twitter.com/ajmrdg) and LinkedIn -> https://linkedin.com/in/ajmaradiaga
 
 <!--
 **ajmaradiaga/ajmaradiaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
