@@ -18,10 +18,10 @@ I'm currently learning:
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
 - [Deploy the Entity Relationship generator for SAP Ariba Analytical Reporting API application to the SAP BTP, Kyma runtime environment](https://blogs.sap.com/?p=1312427)
-- [Replicate SAP Ariba analytical data to Big Query using SAP Cloud Platform Integration](https://blogs.sap.com/2020/10/18/replicate-sap-ariba-analytical-data-to-big-query-using-sap-cloud-platform-integration/comment-page-1/#comment-563730)
 - [Running SAP HANA, express edition VM in Unraid OS](https://blogs.sap.com/?p=1304760)
-- [Replicate SAP Ariba operational data to SAP BW/4HANA 2.0](https://blogs.sap.com/2021/02/05/replicate-sap-ariba-operational-data-to-sap-bw-4hana-2.0/comment-page-1/#comment-562745)
 - [Step by step: How to configure SAP Cloud Integration to communicate with the SAP Ariba APIs by using the HTTP adapter](https://blogs.sap.com/?p=1303877)
+- [Introducing the SAP Ariba API "recipes" in the SAP Ariba extensibility samples repo](https://blogs.sap.com/?p=1303779)
+- [Facing an HTTP 502 error in the SAP Ariba APIs? Here is how to prevent it](https://blogs.sap.com/?p=1289245)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
