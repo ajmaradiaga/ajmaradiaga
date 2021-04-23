@@ -1,4 +1,4 @@
-name: Latest Medium story workflow
+name: Latest SAP Community blog post workflow
 on:
   schedule:
     # Runs every day
