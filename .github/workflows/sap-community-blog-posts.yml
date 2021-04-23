@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "SAP-COMMUNITY"
+          user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Safari/537.36"
           feed_list: "https://content.services.sap.com/feed?author=ajmaradiaga&title=All%20content%20by%20Antonio%20Maradiaga"
