@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Things to take in consideration when migrating supplier-related files to SAP Ariba](https://blogs.sap.com/?p=1334805)
 - [Deploy the Entity Relationship generator for SAP Ariba Analytical Reporting API application to the SAP BTP, Kyma runtime environment](https://blogs.sap.com/?p=1312427)
 - [Running SAP HANA, express edition VM in Unraid OS](https://blogs.sap.com/?p=1304760)
 - [Step by step: How to configure SAP Cloud Integration to communicate with the SAP Ariba APIs by using the HTTP adapter](https://blogs.sap.com/?p=1303877)
 - [Introducing the SAP Ariba API "recipes" in the SAP Ariba extensibility samples repo](https://blogs.sap.com/?p=1303779)
-- [Facing an HTTP 502 error in the SAP Ariba APIs? Here is how to prevent it](https://blogs.sap.com/?p=1289245)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
