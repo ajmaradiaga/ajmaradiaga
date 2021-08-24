@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Learning from past failures](https://blogs.sap.com/?p=1392571)
 - [Detecting a cycle, within a path, when having bidirectional edges in SAP HANA Graph](https://blogs.sap.com/?p=1360841)
 - [Using SAP HANA Graph to map relationships between different SAP products](https://blogs.sap.com/?p=1358211)
 - [Things to take in consideration when migrating supplier-related files to SAP Ariba](https://blogs.sap.com/?p=1334805)
 - [Deploy the Entity Relationship generator for SAP Ariba Analytical Reporting API application to the SAP BTP, Kyma runtime environment](https://blogs.sap.com/?p=1312427)
-- [Running SAP HANA, express edition VM in Unraid OS](https://blogs.sap.com/?p=1304760)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
