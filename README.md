@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Processing identity documents using SAP AI Business Services](https://blogs.sap.com/?p=1427145)
 - [How business people and programmers can collaborate using SAP's low-code/no-code tools?](https://blogs.sap.com/?p=1424189)
 - [La importancia de OData en el ecosistema de SAP](https://blogs.sap.com/?p=1417731)
 - [The importance and value of OData in the SAP ecosystem](https://blogs.sap.com/?p=1417541)
 - [Learning from past failures](https://blogs.sap.com/?p=1392571)
-- [Detecting a cycle, within a path, when having bidirectional edges in SAP HANA Graph](https://blogs.sap.com/?p=1360841)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
