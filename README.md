@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Update commodities in a questionnaire via the SAP Ariba APIs](https://blogs.sap.com/?p=1442041)
 - [Update certificate type questions via the SAP Ariba APIs](https://blogs.sap.com/?p=1439566)
 - [Landscape simplification through SAP BTP services](https://blogs.sap.com/?p=1433130)
 - [Processing identity documents using SAP AI Business Services](https://blogs.sap.com/?p=1427145)
 - [How business people and programmers can collaborate using SAP&#39;s low-code/no-code tools?](https://blogs.sap.com/?p=1424189)
-- [La importancia de OData en el ecosistema de SAP](https://blogs.sap.com/?p=1417731)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
