@@ -1,6 +1,6 @@
-Hello there 👋! I work as an integration consultant @ [SAP](https://sap.com) part of the [SAP Ariba](https://www.ariba.com/) team. 
+Hello there 👋! I work as an SAP BTP Architect @ [SAP](https://sap.com) part of the Presales team @ SAP Spain. 
 
-I help customers integrate their existing systems with SAP Ariba, as well as extending the capabilities of the product by consuming the SAP Ariba extensibility options available.
+I help customers integrate and extend their existing systems using the [SAP Business Technology Platform](https://www.sap.com/uk/products/business-technology-platform.html).
 
 I'm currently learning:
 - [Rust](https://www.rust-lang.org/). Just following the book -> `$ rustup docs`.
