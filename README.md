@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [My first impression of SAP Process Automation](https://blogs.sap.com/?p=1495426)
 - [Data pipelines and APIs - Consider this when building your next data pipeline](https://blogs.sap.com/?p=1487907)
 - [Cloud Connector, explained in simple terms](https://blogs.sap.com/?p=1484211)
 - [TIL: Virus scan functionality when uploading files via a Fiori app](https://blogs.sap.com/?p=1484023)
 - [Replacing docker with podman as your local container engine](https://blogs.sap.com/?p=1476098)
-- [Update commodities in a questionnaire via the SAP Ariba APIs](https://blogs.sap.com/?p=1442041)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
