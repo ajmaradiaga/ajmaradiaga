@@ -1,6 +1,6 @@
-Hello there 👋! I work as an SAP BTP Architect @ [SAP](https://sap.com) part of the Presales team @ SAP Spain. 
+Hello there 👋! I'm a Developer Advocate @ [SAP](https://sap.com). I focus on integration topics, e.g. APIs, SAP Integration Suite, Enterprise Integration. 
 
-I help customers integrate and extend their existing systems using the [SAP Business Technology Platform](https://www.sap.com/uk/products/business-technology-platform.html).
+I help developers/customers/partners integrate and extend their existing systems using the [SAP Business Technology Platform](https://www.sap.com/uk/products/business-technology-platform.html).
 
 I'm currently learning:
 - [Rust](https://www.rust-lang.org/). Just following the book -> `$ rustup docs`.
