@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Creating architecture diagrams with code](https://blogs.sap.com/?p=1566649)
+- [Exploring the SAP Audit Log Service](https://blogs.sap.com/?p=1566059)
+- [Setting up my Mac for SAP Development](https://blogs.sap.com/?p=1562638)
+- [Commonly asked questions regarding the SAP Ariba Reporting APIs](https://blogs.sap.com/?p=1539126)
 - [Securing your online SAP account with Multi-Factor Authentication](https://blogs.sap.com/?p=1498848)
-- [My first impression of SAP Process Automation](https://blogs.sap.com/?p=1495426)
-- [Data pipelines and APIs - Consider this when building your next data pipeline](https://blogs.sap.com/?p=1487907)
-- [Cloud Connector, explained in simple terms](https://blogs.sap.com/?p=1484211)
-- [TIL: Virus scan functionality when uploading files via a Fiori app](https://blogs.sap.com/?p=1484023)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
