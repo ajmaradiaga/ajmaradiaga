@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Retrieving audit log entries using SAP Cloud Integration](https://blogs.sap.com/?p=1568751)
 - [Creating architecture diagrams with code](https://blogs.sap.com/?p=1566649)
 - [Exploring the SAP Audit Log Service](https://blogs.sap.com/?p=1566059)
 - [Setting up my Mac for SAP Development](https://blogs.sap.com/?p=1562638)
 - [Commonly asked questions regarding the SAP Ariba Reporting APIs](https://blogs.sap.com/?p=1539126)
-- [Securing your online SAP account with Multi-Factor Authentication](https://blogs.sap.com/?p=1498848)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
