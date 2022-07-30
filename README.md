@@ -4,7 +4,7 @@ I help developers/customers/partners integrate and extend their existing systems
 
 I'm currently learning:
 - [Rust](https://www.rust-lang.org/). Just following the book -> `$ rustup docs`.
-- [Enterprise messaging](https://help.sap.com/viewer/product/SAP_ENTERPRISE_MESSAGING/Cloud/en-US) and [Kyma](https://github.com/kyma-project/kyma) runtime available in [SAP Cloud Platform](https://www.sap.com/products/cloud-platform.html).
+- [Event Mesh](https://help.sap.com/docs/SAP_EM?locale=en-US) and [Kyma](https://github.com/kyma-project/kyma) runtime available in [SAP Business Technology Platform](https://www.sap.com/products/technology-platform.html).
 
 ### Connect with me:
 
