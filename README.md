@@ -1,4 +1,4 @@
-Hello there 👋! I'm a Developer Advocate @ [SAP](https://sap.com). I focus on integration topics, e.g. APIs, SAP Integration Suite, Enterprise Integration. 
+Hello there 👋! I'm a Developer Advocate @ [SAP](https://sap.com). I focus on integration topics, e.g. APIs, SAP Integration Suite, and Enterprise Integration. 
 
 I help developers/customers/partners integrate and extend their existing systems using the [SAP Business Technology Platform](https://www.sap.com/uk/products/business-technology-platform.html).
 
