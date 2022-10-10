@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [OpenAPIs in the SAP ecosystem](https://blogs.sap.com/?p=1622956)
 - [Generating Business Partner data for your SAP S/4HANA mock server](https://blogs.sap.com/?p=1608923)
 - [As developers, how can we make our developments more sustainable?](https://blogs.sap.com/?p=1577118)
 - [Exploring the SAP Discovery Center](https://blogs.sap.com/?p=1576730)
 - [Store audit log entries in the Object Store using SAP Cloud Integration](https://blogs.sap.com/?p=1570654)
-- [Retrieving audit log entries using SAP Cloud Integration](https://blogs.sap.com/?p=1568751)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
