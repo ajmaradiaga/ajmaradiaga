@@ -17,11 +17,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Configuring access to an SAP SuccessFactors API in SAP Build Apps](https://blogs.sap.com/?p=1690107)
 - [Custom HTTP responses and debugging python functions in Kyma](https://blogs.sap.com/?p=1689416)
 - [SAP Community meets e-ink display: an RSS story](https://blogs.sap.com/?p=1684945)
 - [OpenAPIs in the SAP ecosystem](https://blogs.sap.com/?p=1622956)
 - [Generating Business Partner data for your SAP S/4HANA mock server](https://blogs.sap.com/?p=1608923)
-- [As developers, how can we make our developments more sustainable?](https://blogs.sap.com/?p=1577118)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
