@@ -3,7 +3,7 @@ Hello there 👋! I'm a Developer Advocate @ [SAP](https://sap.com). I focus on 
 I help developers/customers/partners integrate and extend their existing systems using the [SAP Business Technology Platform](https://www.sap.com/uk/products/business-technology-platform.html).
 
 I'm currently learning:
-- [ABAP](https://community.sap.com/topics/abap). Following the book [ABAP: An Introduction](https://www.sap-press.com/abap_4955/) -> and Learn the ABCs of ABAP Programming on SAP BTP (free content available in https://learning.sap.com).
+- [ABAP](https://community.sap.com/topics/abap). Following the book [ABAP: An Introduction](https://www.sap-press.com/abap_4955/) and Learn the ABCs of ABAP Programming on SAP BTP (free content available in https://learning.sap.com).
 
 ### Connect with me:
 
