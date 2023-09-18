@@ -16,11 +16,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Devtoberfest 2023 - 🔴 Integration track sessions](https://blogs.sap.com/?p=1843822)
 - [Create your own SAP Community e-ink badge](https://blogs.sap.com/?p=1757179)
 - [Using SQL to query your SAP BTP account](https://blogs.sap.com/?p=1716333)
 - [Running a Jupyter notebook in SAP Business Application Studio](https://blogs.sap.com/?p=1698300)
 - [Configuring access to an SAP SuccessFactors API in SAP Build Apps](https://blogs.sap.com/?p=1690107)
-- [Custom HTTP responses and debugging python functions in Kyma](https://blogs.sap.com/?p=1689416)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
