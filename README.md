@@ -16,11 +16,11 @@ I'm currently learning:
 
 ### Latest SAP Community blog posts
 <!-- SAP-COMMUNITY:START -->
+- [Quick update on creating your SAP BTP architecture diagrams with code](https://blogs.sap.com/?p=1874873)
 - [SAP Tech Bytes: Enable the consumption of SAP S/4HANA Cloud events in SAP BTP](https://blogs.sap.com/?p=1852679)
 - [Devtoberfest 2023 - 🔴 Integration track sessions](https://blogs.sap.com/?p=1843822)
 - [Create your own SAP Community e-ink badge](https://blogs.sap.com/?p=1757179)
 - [Using SQL to query your SAP BTP account](https://blogs.sap.com/?p=1716333)
-- [Running a Jupyter notebook in SAP Business Application Studio](https://blogs.sap.com/?p=1698300)
 <!-- SAP-COMMUNITY:END -->
 
 [website]: https://ajmaradiaga.com
