@@ -14,11 +14,11 @@ I help developers/customers/partners integrate and extend their existing systems
 
 ### Latest blog posts
 <!-- BLOG:START -->
-- [SAP Tech Bytes: Deliver events from SAP EventMesh to SAP Build Process Automation](https://blogs.sap.com/?p=1886921)
-- [Quick update on creating your SAP BTP architecture diagrams with code](https://blogs.sap.com/?p=1874873)
-- [SAP Tech Bytes: Enable the consumption of SAP S/4HANA Cloud events in SAP BTP](https://blogs.sap.com/?p=1852679)
-- [Devtoberfest 2023 - 🔴 Integration track sessions](https://blogs.sap.com/?p=1843822)
-- [Create your own SAP Community e-ink badge](https://blogs.sap.com/?p=1757179)
+- [Quick update on creating your SAP BTP architecture diagrams with code](http://www.ajmaradiaga.com/quick-update-on-creating-architecture-diagrams-with-code/)
+- [TIL - extracting SVG icons from a Draw.io file](http://www.ajmaradiaga.com/TIL-extracting-svg-icons-from-drawio-file/)
+- [Create your SAP Community e-ink badge](http://www.ajmaradiaga.com/create-your-SAP-community-e-ink-badge/)
+- [Steampipe plugin for SAP BTP](http://www.ajmaradiaga.com/steampipe-plugin-sap-btp/)
+- [TIL - Bitwarden CLI usage in scripts](http://www.ajmaradiaga.com/TIL-Bitwarden-CLI-usage-in-scripts/)
 <!-- BLOG:END -->
 
 [website]: https://ajmaradiaga.com
