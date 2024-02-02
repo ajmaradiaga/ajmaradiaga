@@ -1,4 +1,4 @@
-name: Latest SAP Community blog post workflow
+name: Latest blog post workflow
 on:
   schedule:
     # Runs every 6 hours at minute 5
@@ -7,12 +7,12 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest SAP Community blog posts
+    name: Update this repo's README with latest blog posts from personal website
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "SAP-COMMUNITY"
+          comment_tag_name: "BLOG"
           accept_header: "*/*"
-          feed_list: "https://content.services.sap.com/feed?type=blogpost&author=ajmaradiaga&title=All%20content%20by%20Antonio%20Maradiaga"
+          feed_list: "https://ajmaradiaga.com/feed.xml"
