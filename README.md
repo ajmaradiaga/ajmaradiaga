@@ -14,11 +14,11 @@ I help developers/customers/partners integrate and extend their existing systems
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [TIL - Fixing the invalid HTML error when posting in Khoros](http://www.ajmaradiaga.com/TIL-Invalid-HTML-error/)
 - [Exploring the RSS feeds of the new SAP Community platform](http://www.ajmaradiaga.com/RSS-feeds-in-SAP-Community/)
 - [Quick update on creating your SAP BTP architecture diagrams with code](http://www.ajmaradiaga.com/quick-update-on-creating-architecture-diagrams-with-code/)
 - [TIL - extracting SVG icons from a Draw.io file](http://www.ajmaradiaga.com/TIL-extracting-svg-icons-from-drawio-file/)
 - [Create your SAP Community e-ink badge](http://www.ajmaradiaga.com/create-your-SAP-community-e-ink-badge/)
-- [Steampipe plugin for SAP BTP](http://www.ajmaradiaga.com/steampipe-plugin-sap-btp/)
 <!-- BLOG:END -->
 
 [website]: https://ajmaradiaga.com
