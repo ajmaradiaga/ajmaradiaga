@@ -14,11 +14,11 @@ I help developers/customers/partners integrate and extend their existing systems
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [CloudEvents at SAP 🌁](http://www.ajmaradiaga.com/cloud-events-at-sap/)
 - [Additional SAP Community feeds 📡](http://www.ajmaradiaga.com/additional-SAP-Community-feeds/)
 - [SAP CodeJams in Zagreb, 🇭🇷](http://www.ajmaradiaga.com/SAP-CodeJams-in-Zagreb/)
 - [TIL - Fixing the invalid HTML error when posting in Khoros](http://www.ajmaradiaga.com/TIL-Invalid-HTML-error/)
 - [Exploring the RSS feeds of the new SAP Community platform](http://www.ajmaradiaga.com/RSS-feeds-in-SAP-Community/)
-- [Quick update on creating your SAP BTP architecture diagrams with code](http://www.ajmaradiaga.com/quick-update-on-creating-architecture-diagrams-with-code/)
 <!-- BLOG:END -->
 
 [website]: https://ajmaradiaga.com
