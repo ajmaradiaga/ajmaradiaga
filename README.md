@@ -14,11 +14,11 @@ I help developers/customers/partners integrate and extend their existing systems
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [TIL - Debug a Firefox extension 🐞](http://www.ajmaradiaga.com/TIL-debug-a-firefox-extension/)
 - [TIL - Auto-assign an issue on GitHub 🤖](http://www.ajmaradiaga.com/TIL-autoassign-an-issue-on-GitHub/)
 - [TIL - Running linux/amd64 Dev Containers on Apple Silicon](http://www.ajmaradiaga.com/TIL-Running-Linux-DevContainers-in-AppleSilicon/)
 - [CloudEvents at SAP 🌁](http://www.ajmaradiaga.com/cloud-events-at-sap/)
 - [Additional SAP Community feeds 📡](http://www.ajmaradiaga.com/additional-SAP-Community-feeds/)
-- [SAP CodeJams in Zagreb, 🇭🇷](http://www.ajmaradiaga.com/SAP-CodeJams-in-Zagreb/)
 <!-- BLOG:END -->
 
 [website]: https://ajmaradiaga.com
