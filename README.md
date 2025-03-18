@@ -14,11 +14,11 @@ I help developers/customers/partners integrate and extend their existing systems
 
 ### Latest blog posts
 <!-- BLOG:START -->
+- [TIL - How to force a specific version of SAP UI5 when running Fiori preview in a CAP project](http://www.ajmaradiaga.com/TIL-Force-UI5-version-in-Fiori-preview/)
 - [TIL - Alerts - GitHub Markdown extension](http://www.ajmaradiaga.com/TIL-Alerts-GitHub-Markdown-extension/)
 - [Can a custom event trigger a process in SAP Build Process Automation?](http://www.ajmaradiaga.com/Custom-event-trigger-SBPA/)
 - [Dev Containers and Remote Tunnels 🚇](http://www.ajmaradiaga.com/Remote-Tunnels/)
 - [TIL - Debug a Firefox extension 🐞](http://www.ajmaradiaga.com/TIL-debug-a-firefox-extension/)
-- [TIL - Auto-assign an issue on GitHub 🤖](http://www.ajmaradiaga.com/TIL-autoassign-an-issue-on-GitHub/)
 <!-- BLOG:END -->
 
 [website]: https://ajmaradiaga.com
